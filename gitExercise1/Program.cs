@@ -17,6 +17,7 @@ namespace gitExercise1
             Console.WriteLine("There's a lot of WriteLine statements.");
             Console.WriteLine("There's a lot of WriteLine statements.");
             Console.WriteLine("There's a lot of WriteLine statements.");
+            Console.WriteLine("Still a ton of WriteLine statements.");
             MyClass.hello();
         }
     }
