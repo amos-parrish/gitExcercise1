@@ -13,6 +13,10 @@ namespace gitExercise1
             Console.WriteLine("hello from Main!");
             Console.WriteLine("Does this thing work?");
             Console.WriteLine("I really hope so.");
+            Console.WriteLine("There's a lot of WriteLine statements.");
+            Console.WriteLine("There's a lot of WriteLine statements.");
+            Console.WriteLine("There's a lot of WriteLine statements.");
+            Console.WriteLine("There's a lot of WriteLine statements.");
             MyClass.hello();
         }
     }
